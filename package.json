@@ -1,14 +1,14 @@
 {
-  "name": "cursos-skills",
+  "name": "api-express-sequelize",
   "version": "1.0.0",
-  "description": "API com Node.js, Express e Sequelize",
+  "description": "Repositório do curso de API com Node.js, Express e Sequelize",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Luiz Claudio Dias Gomes",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "4.18.2",
