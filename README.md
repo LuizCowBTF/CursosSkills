@@ -4,7 +4,9 @@
 
 ## Aplicativo de Cursos de Skills baseado em NodeJS
 
-### Requisitos do projeto
+### npm install; npm run dev.
+
+## Requisitos do projeto
 
 ### - O cliente não gostaria que registros importantes do sistema, como as Pessoas, sejam apagados definitivamente do banco de dados.
 
