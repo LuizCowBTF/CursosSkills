@@ -9,11 +9,21 @@
 
 ### Baseado nos cursos de formação para atualização profissional disponibilizado pela Alura chamados “Desenvolva aplicações Web em JavaScript com tarefas concorrentes e orientadas a objetos” ministrado pelos instrutores Luan Alves, Beatriz Moura, Nayanne Batista e Mônica Mazzochi Hillman e o curso "ORM com Node.js: desenvolvendo uma API com Sequelize e SQLite" ministrado pela instrutora Juliana Amoesi. Nesta oportunidade pude atualizar meus conhecimentos em:
 
+### Primeiro Curso
+
 * Criar uma API com Node.js e suas principais bibliotecas
 * Aprender na prática como funciona um ORM
 * Usar o Sequelize para operações em bancos sem usar SQL
 * Desenvolver uma aplicação organizada no modelo MVC
 * Aprimorar conhecimentos em JavaScript para Back-End
+
+### Segundo Curso
+
+* Sair do CRUD básico e implementar funcionalidades na API
+* Aprender e utilizar um ORM para diversas necessidades
+* Usar funcionalidades do Sequelize para refinar consultas ao banco
+* Aprimorar conhecimentos em JavaScript para Back-End
+* Aprender mais o funcionamento de bancos relacionais
 
 ## 🛠️ Instalação
 
